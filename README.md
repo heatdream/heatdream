@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on the SecureCord Backend<br><br>Currently learning languages:<br>- Rust
+I'm currently working on the SecureCord Backend<br><br>Currently learning languages:<br>
+- Rust
 
 
 ## 🌐 Socials:
